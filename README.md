@@ -1,7 +1,3 @@
-Here's an improved version of your README file for the School Timetable Generator project, which includes better formatting and clearer explanations:
-
----
-
 # School Timetable Generator 📚
 
 Welcome to the **School Timetable Generator**! This project simplifies the process of creating school timetables, ensuring that every minute of the school day is perfectly organized for students, teachers, and administrators. 🎓✨
