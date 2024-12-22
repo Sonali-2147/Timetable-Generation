@@ -1,5 +1,6 @@
 # Timetable-Generation
 🕒 School Timetable Generator 📚
+
 Welcome to the School Timetable Generator! This project simplifies the tedious process of creating school timetables, ensuring every minute of the day is perfectly organized for students, teachers, and administrators. 🎓✨
 
 🌟 About the Project
@@ -44,4 +45,5 @@ Run the timetable generator script:
 bash
 Copy code
 python Timetables_generation.py
+
 Review the generated timetables in the output/ folder.
