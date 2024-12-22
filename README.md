@@ -42,7 +42,7 @@ With this tool, we can efficiently generate timetables that meet all requirement
 1. **Clone the repository:**
 
    ```bash
-   git clone <https://github.com/Sonali-2147/Timetable-Generation>
+   git clone https://github.com/Sonali-2147/Timetable-Generation
    ```
 
 2. **Install necessary dependencies:**
