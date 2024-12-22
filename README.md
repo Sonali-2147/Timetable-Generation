@@ -15,6 +15,7 @@ Period durations
 Lunch and assembly timings
 Map subjects to the appropriate teachers.
 Provide a reproducible and user-friendly solution.
+
 🏫 School Details at a Glance
 Category	Jr.Kg & Sr.Kg	1st Standard
 Start Time	10:15 AM	8:15 AM
@@ -22,26 +23,23 @@ End Time	2:15 PM	2:15 PM
 Period Duration	30 minutes	30 minutes
 Lunch Break	12:45 PM - 1:15 PM	9:25 AM - 9:45 AM & 12:45 PM - 1:15 PM
 Assembly (Tuesday)	10:45 AM	10:45 AM
-📋 Inputs Required
-Teacher-Subject Mapping & Period Allotment:
-Google Sheet Here
 
-Reference Timetable:
-Sample for Class 1A
 
-Project Overview Video:
-Watch Here
 
 🔧 How It Works
 🚀 Steps to Run the Project
+
 Clone the repository:
 bash
 Copy code
 git clone <repository_url>
+
 Install all necessary dependencies:
 bash
 Copy code
+
 pip install -r requirements.txt
+
 Run the timetable generator script:
 bash
 Copy code
