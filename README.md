@@ -71,6 +71,17 @@ With this tool, we can efficiently generate timetables that meet all requirement
 
 ---
 
+##Screenshots
+![Output](https://github.com/user-attachments/assets/5be31082-85ff-4bc7-b791-b707c3101448)
+
+![Output-2](https://github.com/user-attachments/assets/c738546d-d72d-4069-bafd-f198d1a76cb9)
+
+![Output-3](https://github.com/user-attachments/assets/4c397d93-23f9-4cf8-a602-ddf5f7df0491)
+
+
+
+
+
 ## 📋 Additional Information
 
 - The timetable generation tool can be customized further to include additional constraints or features.
