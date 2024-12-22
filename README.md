@@ -71,7 +71,7 @@ With this tool, we can efficiently generate timetables that meet all requirement
 
 ---
 
-#Screenshots
+## Screenshots
 
 ![Output](https://github.com/user-attachments/assets/5be31082-85ff-4bc7-b791-b707c3101448)
 
